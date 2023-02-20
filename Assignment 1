@@ -13,5 +13,5 @@ int main()
         h=ele;
         i++;
     }
-    printf("\n Highest %d",h);
+    printf("\n lowest %d",h);
 }
